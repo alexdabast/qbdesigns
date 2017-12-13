@@ -1,0 +1,14 @@
+{
+  "path": "/feature-3/image",
+  "type": "_legacy",
+  "data": {
+    "src": "[upload r1BFzInK.jpg]",
+    "position": {
+      "y": -50.7042253521127,
+      "x": -36.61971830985917
+    },
+    "scale": "1.42"
+  },
+  "createdAt": "2017-04-05T05:33:37.757Z",
+  "updatedAt": "2017-04-05T05:33:37.757Z"
+}

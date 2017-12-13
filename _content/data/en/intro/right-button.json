@@ -1,0 +1,9 @@
+{
+  "path": "/en/intro/right-button",
+  "type": "_legacy",
+  "data": {
+    "text": "\n<!--StartFragment--><span id=\"spans0e0\" onclick=\"showMenu(this);\" class=\"ac\" tooltip=\"<b>Contactez-nous</b> : Un trait d'union est nécessaire entre un impératif et un pronom complément.\" onmouseover=\"showtooltip(this,300);\" onmouseout=\"hideddrivetip();\">Contactez-nous</span> maintenant\n\n"
+  },
+  "createdAt": "2017-04-05T05:33:37.753Z",
+  "updatedAt": "2017-08-05T14:53:34.791Z"
+}

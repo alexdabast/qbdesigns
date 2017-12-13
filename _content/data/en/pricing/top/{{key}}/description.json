@@ -1,0 +1,9 @@
+{
+  "path": "/en/pricing/top/{{key}}/description",
+  "type": "_legacy",
+  "data": {
+    "text": "<br>"
+  },
+  "createdAt": "2017-04-05T05:33:37.756Z",
+  "updatedAt": "2017-04-05T05:33:37.756Z"
+}

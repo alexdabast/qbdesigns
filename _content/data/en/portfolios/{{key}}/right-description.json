@@ -1,0 +1,9 @@
+{
+  "path": "/en/portfolios/{{key}}/right-description",
+  "type": "_legacy",
+  "data": {
+    "text": "<br>"
+  },
+  "createdAt": "2017-08-04T15:03:43.025Z",
+  "updatedAt": "2017-08-04T15:03:43.025Z"
+}

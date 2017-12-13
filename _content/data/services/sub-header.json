@@ -1,0 +1,9 @@
+{
+  "path": "/services/sub-header",
+  "type": "_legacy",
+  "data": {
+    "text": "<p>Lorem ipsum dolor sit amet consectetur.</p>"
+  },
+  "createdAt": "2017-04-05T05:33:37.757Z",
+  "updatedAt": "2017-04-05T05:33:37.757Z"
+}
